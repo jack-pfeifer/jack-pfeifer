@@ -8,7 +8,7 @@ I enjoy building user-facing applications and exploring how real-world software 
 ## 🚧 What I'm Working On
 - Contributing to IBM's **AssetOpsBench** (MCP-based system for agent orchestration)
 - Building **HomeFunds**, a full-stack expense tracking app with receipt uploads
-- Expanding backend + cloud experience (next step: AWS S3)
+- Graduating in May of 2026!
 
 ---
 

@@ -23,7 +23,7 @@ I enjoy building user-facing applications and exploring how real-world software 
 
 - **Skysworn**  
   2D "Foddian" platformer built in Godot with custom movement and physics systems.
-  You can play the most current build here! → https://jetpackp.itch.io/skysworn
+  → You can play the most current build here! https://jetpackp.itch.io/skysworn
 
 - **Nusha**  
   Lexer / parser / interpreter project with AST-based execution  

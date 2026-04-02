@@ -22,7 +22,7 @@ I enjoy building user-facing applications and exploring how real-world software 
   → Features receipt uploads and persistent data storage  
 
 - **Skysworn**  
-  2D "Foddian" platformer built in Godot with custom movement and physics systems.
+  2D "Foddian" platformer built in Godot with custom movement and physics systems  
   → You can play the most current build here! https://jetpackp.itch.io/skysworn
 
 - **Nusha**  

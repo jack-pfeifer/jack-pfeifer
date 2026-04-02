@@ -1,7 +1,7 @@
 # Hi, I'm Jack 👋
 
 Computer Science student focused on full-stack development and systems.  
-I enjoy building user-facing applications and exploring how real-world software systems operate under the hood.
+I enjoy building user-facing applications and exploring how real-world software systems operate under the hood, especially cutting edge technolgies, such as Generative AI!
 
 ---
 
@@ -22,7 +22,8 @@ I enjoy building user-facing applications and exploring how real-world software 
   → Features receipt uploads and persistent data storage  
 
 - **Skysworn**  
-  2D "Foddian" platformer built in Godot with custom movement and physics systems. You can play the most current build here! -> https://jetpackp.itch.io/skysworn
+  2D "Foddian" platformer built in Godot with custom movement and physics systems.
+  You can play the most current build here! → https://jetpackp.itch.io/skysworn
 
 - **Nusha**  
   Lexer / parser / interpreter project with AST-based execution  
